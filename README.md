@@ -24,7 +24,15 @@ The graph that illustrates this relationship at a constant temperature (the blac
 <img src="https://github.com/MariaChemerys/Calculation_of_the_Peak_Wavelength_of_the_Blackbody_Radiation_Spectrum_Using_Derivative_Analysis/blob/master/Blackbody%20Radiation%20Spectrum.png?raw=true" width="400" height=auto />
 </p>
 
-The global maximum of this function occurs at the peak wavelength λ<sub>max</sub>. To develop 
+The global maximum of this function occurs at the peak wavelength λ<sub>max</sub>. To calculate it, I decided to implement the gradient descent algorithm, which is an iterative algorithm that can be used to calculate the minimum or maximum of a function. The development of the gradient descent algorithm for the peak wavelength computation from my research is demonstrated below:<br>
+
+<p align="center">
+<img src="https://github.com/MariaChemerys/Gradient_Descent_Algorithm_to_Calculate_the_Peak_Wavelength_of_the_Blackbody_Radiation_Spectrum/blob/master/Development%20of%20Gradient%20Descent%20Algorithm%20Part%201.png?raw=true" width="600" height=auto />
+</p>
+
+<p align="center">
+<img src="https://github.com/MariaChemerys/Gradient_Descent_Algorithm_to_Calculate_the_Peak_Wavelength_of_the_Blackbody_Radiation_Spectrum/blob/master/Development%20of%20Gradient%20Descent%20Algorithm%20Part%202.png?raw=true" width="600" height=auto />
+</p>
 
 <h2>Technologies Used</h2>
 <p align="left">
